@@ -1,6 +1,8 @@
 #include "syn_analy.h"
 #include "myhead.h"
 //#include "variables.h"
+  
+//test
 
 struct  synStruct note_run_yunsuan[40];
 /***********************/
